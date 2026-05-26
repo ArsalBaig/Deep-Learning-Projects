@@ -22,7 +22,7 @@ graph LR
     C --> D[Evaluation]
     D --> E[Real-time Inference]
 
-## How to Run
+How to Run
 1- Clone this repository:
 git clone [https://github.com/ArsalBaig/Agentic-AI.git](https://github.com/ArsalBaig/Agentic-AI.git)
 
@@ -33,6 +33,6 @@ Navigate to the project directory and open Face Emotion Regconition.ipynb using 
 Ensure you have the required libraries installed:
 pip install tensorflow keras opencv-python matplotlib
 
-## Runtime Video:
+Runtime Video:
 
 https://github.com/user-attachments/assets/bca8aae7-05da-4208-b889-e387242f04cf
